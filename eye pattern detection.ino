@@ -2,7 +2,7 @@
 #include <HTTPClient.h>
 
 /* ---------------- WiFi ---------------- */
-const char* ssid = "Harish";
+const char* ssid = " ";
 const char* password = " ";
 
 /* -------------- Telegram -------------- */
