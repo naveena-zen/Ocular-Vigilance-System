@@ -3,11 +3,11 @@
 
 /* ---------------- WiFi ---------------- */
 const char* ssid = "Harish";
-const char* password = "rihaa208";
+const char* password = " ";
 
 /* -------------- Telegram -------------- */
-String botToken = "8370592751:AAEzC7Xz6nwB3-mKQ-P1Sux26WS9W63etxQ";
-String chatID   = "5030400696";   // Harishma
+String botToken = " ";
+String chatID   = " ";   
 
 /* ---------------- Pins ---------------- */
 #define IR_SENSOR_PIN     18   // Eye sensor
