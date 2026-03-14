@@ -68,6 +68,5 @@ When blink parameters exceed predefined safety thresholds, the system activates 
 - Data logging and performance analytics
 - Wireless notification integration
 
-
 ## License
-This project is developed as part of a college mini project and is intended for academic use only.
+This project is developed as part of a college mini project.
